@@ -9,7 +9,7 @@ const VOICE_CHANNEL = '1348761088556142612'
 const TEXT_CHANNEL = '1297123182503002174'
 const STORAGE_FILE = './daily_players.json'
 
-const CRON = '0 10 * * *'
+const CRON = '15 10 * * *'
 
 import {
     Client,
